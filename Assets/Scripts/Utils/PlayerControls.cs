@@ -49,7 +49,7 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
                     ""name"": ""PlayerInteraction"",
                     ""type"": ""Value"",
                     ""id"": ""4d0871ca-8af2-4b6d-bcd1-db49f24dc1c3"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": ""Analog"",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": true
